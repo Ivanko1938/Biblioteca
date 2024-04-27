@@ -1,0 +1,26 @@
+
+Fichero con todos los LIBROS
+
+Título    : El nombre de la Rosa
+Autor     : Umberto Eco
+ISBN      : 111
+Páginas   : 784
+Editorial : Debolsillo
+
+Título    : El señor de los anillos
+Autor     : J R Tolkin
+ISBN      : 222
+Páginas   : 408
+Editorial : Minotauro
+
+Título    : El médico
+Autor     : Noah Gordon
+ISBN      : 333
+Páginas   : 800
+Editorial : Roca
+
+Título    : El mito de la caverna
+Autor     : Platon
+ISBN      : 444
+Páginas   : 220
+Editorial : Bolsillo

@@ -1,0 +1,17 @@
+
+Fichero con todos los libros del CATALOGO
+
+TEMA : Novela histórica
+
+Título    : El nombre de la Rosa
+Autor     : Umberto Eco
+ISBN      : 111
+Páginas   : 784
+Editorial : Debolsillo
+Tema      : Novela histórica
+
+TEMA : Novela fantástica
+
+TEMA : Novela científica
+
+TEMA : Filosofía
