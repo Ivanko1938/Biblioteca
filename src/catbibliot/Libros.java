@@ -44,7 +44,6 @@ public class Libros {
                 System.out.println("ISBN      : " + isbn[i]);
                 System.out.println("Páginas   : " + numPaginas[i]);
                 System.out.println("Editorial : " + editorial[i]);
-                //System.out.println(temaCat[i]);
             }
         }
 
