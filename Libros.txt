@@ -23,4 +23,5 @@ Título    : El mito de la caverna
 Autor     : Platon
 ISBN      : 444
 Páginas   : 220
-Editorial : Bolsillo
+Editorial : La sureña
+

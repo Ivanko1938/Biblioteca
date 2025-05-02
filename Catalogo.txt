@@ -6,7 +6,7 @@ TEMA : Novela histórica
 Título    : El nombre de la Rosa
 Autor     : Umberto Eco
 ISBN      : 111
-Páginas   : 784
+Páginas   : 785
 Editorial : Debolsillo
 Tema      : Novela histórica
 
